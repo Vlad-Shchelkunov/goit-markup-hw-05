@@ -580,6 +580,7 @@ body { background: #ffffff;
     overflow: hidden;
 }
 .project__title {
+    padding: 20px 0;
     border: 1px solid #EEEEEE;
 }
 
@@ -589,7 +590,7 @@ body { background: #ffffff;
 }
 
 .project__name {
-    margin: 0 24px 4px 24px;
+    margin: 0 0 4px 24px;
     color: var(--primary-text-color);
     font-size: 18px;
     font-weight: 700;
@@ -598,7 +599,7 @@ body { background: #ffffff;
 }
 
 .project__type {
-    margin: 0 24px 20px 24px;
+    margin: 0 0 0 24px;
     color: var(--secondary-text-color);
     font-size: 16px;
     font-weight: 400;
